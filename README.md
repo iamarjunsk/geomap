@@ -1,4 +1,4 @@
-# Geofencong application using react.js
+# Geofencing application using react.js
 
 ## Description
 This is a geofencing application when it click it shows curresponding population of the state of USA.
